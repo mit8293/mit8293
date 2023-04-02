@@ -3,7 +3,7 @@
 # I'm a Fullstack developer from India 🇮🇳
 
 - 🏢 I'm currently working at **Tardis Solutions**
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.ts`
 - 💬 Ping me about  **javascript**, **development**, **python**, **react**.
 - 📫 Reach me: [https://twitter.com/Smokin_Ace08](https://twitter.com/Smokin_Ace08)
 - 😄 Pronouns: He/Him
